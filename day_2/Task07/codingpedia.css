@@ -1,0 +1,23 @@
+
+.box{ background-color: white;
+    border: 2px black solid; margin: 10px; padding-left: 10px; padding-right:  10px;
+}
+.body{ background-color: grey;
+
+}
+.header {
+    display: grid;
+    grid-template-columns: 5fr 1fr;
+    align-items: center;
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+
+.title {
+    font-size: 24px;
+}
+
+.menu {
+    text-align: right;
+}
